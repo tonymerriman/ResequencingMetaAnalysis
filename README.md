@@ -1,5 +1,5 @@
 # ResequencingMetaAnalysis
-Our aim is to compile a large database of publicly available GWAS data related to the genetic architecture of obesity, type-II diabetes and kidney function. This dataset will include imminent BMI and diabetes GWAS results from Polynesians. From this reference dataset, we aim to delimit the boundaries of the most associated loci and identify particular squences of functional importance which we will specifically target in a resequencing study of Polynesian populations.
+Our aim is to compile a large database of publicly available GWAS data related to the genetic architecture of obesity, type-II diabetes and kidney function. This dataset will include imminent BMI and diabetes GWAS (plus eGFR and Tg) results from Polynesians. From this reference dataset, we aim to delimit the boundaries of the most associated loci and identify particular squences of functional importance which we will specifically target in a resequencing study of Polynesian populations.
 
 ### Phases  
 
@@ -8,7 +8,7 @@ Our aim is to compile a large database of publicly available GWAS data related t
  - __Phase 3:__  extract the top 20 loci by population (emphasis on European and Asian populations).  
  - __Phase 4:__  This will require clear criteria for selection of the genes (proximity-based).    
  - __Phase 5:__  compile appropriate exons, promoters, 3' / 5' UTR sequences.  
- - __Phase 6:__  where appropriate also target regulatory regions.  
+ - __Phase 6:__  where appropriate (for top loci) also target regulatory regions.  
  
 
 ### Key References  
