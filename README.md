@@ -5,7 +5,7 @@ Our aim is to compile a large database of publicly available GWAS data related t
 
  - __Phase 1:__  identify the most recent large scale meta-analyses from the literature.  
  - __Phase 2:__  from these studies, obtain the relevant data sets.  
- - __Phase 3:__  the top 20 loci by population (emphasis on European and Asian populations).  
+ - __Phase 3:__  extract the top 20 loci by population (emphasis on European and Asian populations).  
  - __Phase 4:__  This will require clear criteria for selection of the genes (proximity-based).    
  - __Phase 5:__  compile appropriate exons, promoters, 3' / 5' UTR sequences.  
  - __Phase 6:__  where appropriate also target regulatory regions.  
